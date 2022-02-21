@@ -8,7 +8,6 @@
   text-align: center;
   background-color: lemonchiffon;
 }
-
 #logo {
   justify-content: center;
   margin-left: 2em;
@@ -24,7 +23,6 @@
   text-align: center;
   justify-content: center;
 }
-
 #main {
   display: flex;
   flex-direction: column;
@@ -33,30 +31,7 @@
   background-color: darkkhaki;
   text-align: center;
 }
-#mainbody {
-  display: flex;
 
-  justify-content: space-between;
-}
-.mainTitle {
-  text-align: center;
-}
-.FriedChicken {
-  display: flex;
-  justify-content: space-evenly;
-}
-.content {
-  text-align: center;
-}
-
-.bodyright {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.bodyright > img {
-  object-fit: contain;
-}
 #footer {
   text-align: center;
   background-color: lemonchiffon;
